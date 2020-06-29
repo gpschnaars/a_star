@@ -13,3 +13,4 @@ Press the (barely visible?) button at the bottom of the GUI to begin the path fi
 To clear the board, just close the window and rerun the script.
 
 
+This is very much a first draft ...definitely will need to revisit to clean up code, make optimizations, and add other features.
